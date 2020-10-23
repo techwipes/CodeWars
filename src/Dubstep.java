@@ -40,6 +40,15 @@ public class Dubstep {
     }
 }
 
+//   reg ex
+
+//public class Dubstep {
+//    public static String SongDecoder (String song)
+//    {
+//        return song.replaceAll("(WUB)+", " ").trim();
+//    }
+//}
+
 class Test{
     public static void main(String[] args) {
         Dubstep.SongDecoder("WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB");
